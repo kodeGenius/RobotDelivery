@@ -1,3 +1,3 @@
-//
+// robot function
 function name(){
 }
