@@ -1,3 +1,4 @@
 // robot function
-function name(){
+function robo(){
+  let a = 1;
 }
