@@ -1,4 +1,4 @@
 //robotic
-const robo = () =>{
+const rob = () =>{
   let foo = 23;
 }
